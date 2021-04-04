@@ -43,7 +43,7 @@
 
       <!-- view count -->
         <div class="view-count section">
-          <CustomText tag="b">1.673 like</CustomText>
+          <CustomText tag="b">1.673 likes</CustomText>
         </div>
       <!-- comment list -->
 
